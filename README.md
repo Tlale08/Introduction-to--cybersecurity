@@ -12,4 +12,4 @@ It is important because it protects companies from financial loss, operational d
 -Hospitals
 
 ## Career Path Im Interested In 
-Security Analyst: Because I want to make a real world impact by acting as the front-line shield that protects everyday people, ensuring hospitals stay online, banking systems remain safe, and personl data stays priavte.
+Security Analyst: Because I want to make a real world impact by acting as the front-line shield that protects everyday people, ensuring hospitals stay online, banking systems remain safe, and personl data stays private.
